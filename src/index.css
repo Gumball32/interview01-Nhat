@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+form {
+  margin: 30px;
+}
+
+.input-group {
+  margin-bottom: 10px;
+}
+
+label {
+  margin-right: 10px;
+}
